@@ -16,6 +16,6 @@ Then to run the app simply enter the command:
 
 Project uses Firebase Realtime Database
 
-In the file [Expenses.js](https://github.com/zayl97/Expenses-Register/tree/main/src/compononents) you can change the address of the database for your own.
+In the file [Expenses.js](https://github.com/zayl97/Expenses-Register/blob/master/src/components/Expenses.js) you can change the address of the database for your own.
 
 It will launch the app in the developer mode and should autmatically launch it in your default browser window. If not, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
